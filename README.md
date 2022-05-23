@@ -1,4 +1,4 @@
-# A General knowledge quiz based on India
+# A General knowledge quiz based on India.
 
 Welcome to the quiz.
 
